@@ -13,7 +13,7 @@ print("The task:", a, "+", b)
 
 # for loop (set number of tries)
 
-for i in range(5):
+for t in range(10):
 
     # input
 
@@ -25,8 +25,8 @@ for i in range(5):
     
     if x == c:
         
-        print("That's correct, Matherfucker!")
+        print("That's correct, Matherfucker! That was attempt #:", t+1)
         break
 
     else:
-        print(x, "is wrong! guess again, you dumbfuck!")
+        print(x, "is wrong! guess again, you dumbfuck! You have", 9-t, "tries left!")

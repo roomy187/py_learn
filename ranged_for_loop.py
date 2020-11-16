@@ -14,4 +14,16 @@ for i in range(5,9):
 
 for i in range(999):
     print("you are fuckface #:", i)
-    
+
+# range with float v1
+
+for x in range(18,22):
+    print(x/10)
+
+# range with float v2
+
+y = 1.8
+
+for i in range(9):
+    y = y + 0.1
+    print(y)
