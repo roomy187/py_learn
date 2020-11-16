@@ -4,9 +4,9 @@ print("are you married? y/n:")
 
 m = input(str())
 
-if m == "y" or "yes":
+if m == "y" or m == "yes":
     m = True
-elif  input == "n" or "no":
+elif  input == "n" or m == "no":
     m = False
 else:
     print("Wrong input, please answer with \"y\" or \"n\"!")
