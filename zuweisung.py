@@ -8,5 +8,5 @@ c = a + b
 
 #Ausgabe
 
-print 'Die Aufgabe:', a, '+', b
-print 'Das Ergebnis:', c
+print ("Die Aufgabe:", a, "+", b)
+print ("Das Ergebnis:", c)
