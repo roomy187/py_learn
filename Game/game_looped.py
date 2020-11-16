@@ -13,7 +13,7 @@ print("The task:", a, "+", b)
 
 # for loop (set number of tries)
 
-for i in 1, 2, 3, 4:
+for i in range(5):
 
     # input
 
