@@ -22,5 +22,5 @@ while fail == 1:
 
     except:
         print(z, "is not a number! Try again, Fuckface!")
-
+print("test!")
 print("exit")
