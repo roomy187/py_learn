@@ -10,5 +10,3 @@ for i in 12, -4, 20, 7:
 
 print("end")
 
-
-print("Test")
